@@ -1,6 +1,6 @@
 # Hi, I'm Moustafa Ismail 👋
 
-### 💻 Full-Stack Developer | 📊 Data Analytics
+### 📊 Data Analytics |💻 Full-Stack Developer 
 
 I'm a software developer with hands-on experience building full-stack web applications, REST APIs, and database-driven solutions.
 

@@ -2,9 +2,9 @@
 
 ### 📊 Data Analytics |💻 Full-Stack Developer 
 
-I'm a software developer with hands-on experience building full-stack web applications, REST APIs, and database-driven solutions.
+I’m a Data Analyst with a strong background in software development, combining analytical thinking with technical experience to turn data into meaningful insights. I work with SQL, Excel, Python, Pandas, Power BI, and IBM Cognos Analytics for data analysis, cleaning, visualization, dashboards, and reporting.
 
-I enjoy turning business requirements into practical software solutions and have expanded my skills into Data Analytics using Python, Pandas, IBM Cognos Analytics, and dashboard development.
+My software development background also gives me experience with databases, APIs, and full-stack development, allowing me to approach data problems with a strong technical perspective.
 
 ---
 

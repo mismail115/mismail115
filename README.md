@@ -2,7 +2,7 @@
 
 ### 📊 Data Analytics | SQL | Python | Excel | Power BI | Data Visualization | Business Intelligence |💻 SoftWare Development Background
 
-I'm a Data Analyst who turns complex data into meaningful insights that support business decisions. I work with SQL, Python, Pandas, Excel, Power BI, and IBM Cognos Analytics for data cleaning, analysis, visualization, dashboards, and reporting.
+I'm a Data Analyst who turns complex data into meaningful insights that support business decisions. I work with SQL, Python, Pandas, Excel, Power BI, Tableau, and IBM Cognos Analytics for data cleaning, analysis, visualization, dashboards, and reporting.
 
 My software development background gives me a strong technical foundation in databases, APIs, and data-driven applications, helping me investigate data problems and identify root causes.
 

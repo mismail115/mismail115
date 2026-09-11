@@ -8,8 +8,6 @@ My software development background gives me a strong technical foundation in dat
 
 ---
 
-## 🛠️ Technical Skills
-
 ## 🛠 Technical Skills
 
 ### 📊 Data Analytics & BI
@@ -20,7 +18,7 @@ My software development background gives me a strong technical foundation in dat
 ![IBM Cognos](https://img.shields.io/badge/IBM_Cognos-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4C8CBF?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-5C9EAD?style=for-the-badge)
-
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ### 🐍 Data Analysis & Programming
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

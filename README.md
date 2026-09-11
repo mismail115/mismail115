@@ -1,6 +1,6 @@
 # Hi, I'm Moustafa Ismail 👋
 
-### 📊 Data Analytics | SQL | Python | Excel | Power BI | Data Visualization | Business Intelligence |💻 SoftWare Development Background
+### 📊 Data Analytics | SQL | Python | Excel | Power BI | Tableau | Data Visualization | Business Intelligence |💻 SoftWare Development Background
 
 I'm a Data Analyst who turns complex data into meaningful insights that support business decisions. I work with SQL, Python, Pandas, Excel, Power BI, Tableau, and IBM Cognos Analytics for data cleaning, analysis, visualization, dashboards, and reporting.
 
